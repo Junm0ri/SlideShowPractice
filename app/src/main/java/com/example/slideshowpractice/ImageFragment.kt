@@ -5,6 +5,7 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import com.example.slideshowpractice.databinding.FragmentImageBinding
 
 private const val IMG_RES_ID="IMG_RES_ID"
 
